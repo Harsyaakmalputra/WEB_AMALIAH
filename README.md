@@ -5,7 +5,7 @@
 ## Instalasi :
 
 - Clone Github 
-- Install Composer (composer install).
+- Install Composer di projek (composer install).
 - Copy env (cp .env.example .env).
 - Hapus cache "opsional" (php artisan config:cache)
 - Generate Key (php artisan key:generate)
